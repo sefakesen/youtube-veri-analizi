@@ -1,4 +1,3 @@
-<img width="1000" height="500" alt="grafik_1_etkilesim" src="https://github.com/user-attachments/assets/6c222d4b-2e42-4611-a2e5-ecb87088a44a" />
 # 📊 YouTube VOD Etkileşim ve Büyüme Analizi
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![YouTube API](https://img.shields.io/badge/YouTube_API-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
