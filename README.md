@@ -47,3 +47,18 @@ Projenin çalışması için bilgisayarınızda Python 3.x ve gerekli kütüphan
 git clone [https://github.com/kullaniciadiniz/youtube-veri-analizi.git](https://github.com/kullaniciadiniz/youtube-veri-analizi.git)
 cd youtube-veri-analizi
 pip install google-api-python-client pandas matplotlib seaborn isodate
+```
+
+### 2. YouTube API Anahtarı Kurulumu
+
+Projenin YouTube veri çekme scriptini (main.py) çalıştırabilmesi için bir Google Cloud API anahtarına ihtiyacınız vardır:
+
+Google Cloud Console adresine gidin.
+
+Yeni bir proje oluşturun veya mevcut projenizi seçin.
+
+API'ler ve Hizmetler sekmesinden YouTube Data API v3 servisini bulun ve aktif hale getirin.
+
+Kimlik Bilgileri (Credentials) sekmesinden yeni bir API Anahtarı (API Key) oluşturun.
+
+main.py dosyasını açın ve en üstte yer alan API_KEY değişkenine kendi anahtarınızı yapıştırın:
