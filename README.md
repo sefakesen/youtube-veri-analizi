@@ -38,8 +38,12 @@ Kısa tüketim çağında videoların uzunluğunun izleyiciyi nasıl etkilediği
 
 ## 💻 Kurulum ve Çalıştırma
 
-Projeyi kendi lokal ortamınızda çalıştırmak için aşağıdaki adımları izleyebilirsiniz:
+Projeyi yerel bilgisayarınızda çalıştırmak ve analizi kendi hedeflediğiniz kanallar üzerinde denemek için aşağıdaki adımları izleyebilirsiniz:
 
-1. Repoyu klonlayın:
-   ```bash
-   git clone [https://github.com/sefakesen/youtube-veri-analizi.git](https://github.com/sefakesen/youtube-veri-analizi.git)
+### 1. Gereksinimler
+Projenin çalışması için bilgisayarınızda Python 3.x ve gerekli kütüphanelerin kurulu olması gerekmektedir.
+
+```bash
+git clone [https://github.com/kullaniciadiniz/youtube-veri-analizi.git](https://github.com/kullaniciadiniz/youtube-veri-analizi.git)
+cd youtube-veri-analizi
+pip install google-api-python-client pandas matplotlib seaborn isodate
